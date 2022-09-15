@@ -15,3 +15,4 @@ void print_triangle(int size);
 void print_number(int n);
 /*
  * header file for functions*/
+#endif
